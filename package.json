@@ -1,0 +1,28 @@
+{
+  "name": "react-spoiler",
+  "version": "0.1.0",
+  "description": "A simple spoiler component for React",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "spoiler",
+    "component",
+    "toggle"
+  ],
+  "author": "Alex Mitchell",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/shamsup/react-spoiler.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^0.14.0"
+  },
+  "devDependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
